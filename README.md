@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mordulu
 - 👀 I’m interested in C# , .Net , Object Oriented Programming
 - 🌱 I’m currently learning Visual Studio Code, C# 101, Git,algorithm
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on C# and .Net Projects
 - 📫 How to reach me (https://www.linkedin.com/in/ibrahimmelihordulu/)
 
 <!---
