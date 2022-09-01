@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mordulu
+- 👋 Hi, I’m Melih Ordulu
 - 👀 I’m interested in C# , .Net , Object Oriented Programming
 - 🌱 I’m currently learning Visual Studio Code, C# 101, Git,Algorithm
 - 💞️ I’m looking to collaborate on C# and .Net Projects
